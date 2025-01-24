@@ -4,8 +4,8 @@
 **💼 职业：** 自由职业 Web 开发者  
 **🛠️ 核心技能：**  
 - **编程语言：** Python 🐍, JavaScript 🌐, TypeScript ʦ, Kotlin 📱, PHP 🐘  
-- **框架与库：** Vue.js 🔥, Node.js 🚀  
-- **工具与技术：** Git 🌳, Docker 🐳, RESTful APIs 🌐, GraphQL ⚡  
+- **框架与库：** Vue.js 🔥, Node.js 🚀, React.js 🤓, flask 🐍 ...  
+- **工具与技术：** Git 🌳, Docker 🐳, RESTful APIs 🌐, GraphQL ⚡, ...  
 
 ## 🌟 优势
 - 逻辑性强，善于解决问题并具有创造力。  
