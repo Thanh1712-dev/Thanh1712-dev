@@ -1,7 +1,7 @@
-# 🇻🇳 阮士成 | 自由职业 Web 开发者
+# 🇻🇳 阮士成 | 自由职业 🎉终身学习📚
 
 **🌍 目前所在地：** 台湾  
-**💼 职业：** 自由职业 Web 开发者  
+**💼 职业：** 自由职业  
 **🛠️ 核心技能：**  
 - **编程语言：** Python 🐍, JavaScript 🌐, TypeScript ʦ, Kotlin 📱, PHP 🐘  
 - **框架与库：** Vue.js 🔥, Node.js 🚀, React.js 🤓, flask 🐍, django 🐍, wordpress ...  
