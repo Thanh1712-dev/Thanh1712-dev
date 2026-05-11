@@ -1,6 +1,6 @@
-# 🇻🇳 Edward Nguyen | 🎉终身学习📚
+# 🇻🇳 Edward Nguyen | 
 
-**🌍 目前所在地：** 台湾  
+**🌍 目前所在地：** 台湾 🇹🇼
 **💼 职业：** 量化交易  
 ![hihihi](dancing-gopher.gif)
 
