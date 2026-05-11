@@ -2,7 +2,11 @@
 
 **🌍 目前所在地：** 台湾 🇹🇼
 
-![hihihi](dancing-gopher.gif)   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemU5eWg4eXhpNDBrcnJ0Ymc4emQ1YjdlYzRxOXV0ZTc2Y2xibHZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="400" height="auto" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/gonum/gonum/master/logo/dancing-gopher.gif" width="100" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemU5eWg4eXhpNDBrcnJ0Ymc4emQ1YjdlYzRxOXV0ZTc2Y2xibHZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="400" />
+</p>
 
 ## 🧸 Tôi yêu tổ quốc tôi 🇻🇳
 > “永远学习，永不停步！”
