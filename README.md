@@ -1,4 +1,4 @@
-# 🇻🇳 Edward Nguyen | 
+| # 🇻🇳 Edward Nguyen | 
 **🌍 目前所在地：** 台湾 🇹🇼
 
 <p align="center">
@@ -7,5 +7,4 @@
   <img src="dancing-gopher.gif" width="200" />
 </p>
 
-## 🧸 Tôi yêu tổ quốc tôi 🇻🇳
 > “永远学习，永不停步！”
