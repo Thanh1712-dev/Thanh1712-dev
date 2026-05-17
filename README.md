@@ -1,5 +1,5 @@
-| # 🇻🇳 Edward Nguyen | 
-**🌍 目前所在地：** 台湾 🇹🇼
+| # 🇻🇳 **Edward Nguyen** | 
+**🌍 目前所在地：** **台湾** 🇹🇼
 
 <p align="center">
   <img src="dancing-gopher.gif" width="200" />
@@ -7,7 +7,7 @@
   <img src="dancing-gopher.gif" width="200" />
 </p>
 
-# Languages and tools
+| **Languages and tools** |
 
 <div style="display: flex;">
 <img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" />
